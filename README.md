@@ -16,4 +16,21 @@ Now when you do ./fileName it should work.
 #####Tips
 
 * Installing **tree** really helps. For mac `brew install tree`
+* Always move all the autmation scripts to a central folder, it is a good practise.
+* Update the bash profile
+
+```
+ cd /Users/userName
+ vi .bash_profile
+ export PATH=/path/to/centralrepo:$PATH
+```
+
+Now whenever you use **bash** , the above path will be included, hence, the scripts inside will work.
+
+Sync the bash profile
+
+`source ~/.bash_profile`
+
+*
+
 ~

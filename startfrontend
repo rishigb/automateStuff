@@ -6,9 +6,8 @@ read project
 
 #create the directory and put stuff inside it.
 mkdir $project
-touch index.html
-
 cd $project
+touch index.html
 mkdir css js img
 touch js/script.js css/style.css
 
