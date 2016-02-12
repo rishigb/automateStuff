@@ -4,6 +4,11 @@ I have been writing code for sometime now, but I haven't been able to really opt
 
 Inspired by Build-podcast's screencast on bash.
 
+#####What's inside?
+
+1. Front End Boiler Plate
+2. Alias - making commands less painful for typing.
+
 #####Running the code
 
 Since it is a shell script, you will have to make it executable/workable. The easiest way to do that is
@@ -27,10 +32,10 @@ Now when you do ./fileName it should work.
 
 Now whenever you use **bash** , the above path will be included, hence, the scripts inside will work.
 
-Sync the bash profile
+*Sync the bash profile
 
 `source ~/.bash_profile`
-
+* You **must** have a `.bash_profile` with shortcuts that makes your life easier, because while coding, you only want to spend time where it is absolutely necessary.
 
 ####All thanks to [build-podcast](http://build-podcast.com/) and [@sayanee_](https://twitter.com/sayanee_) , would have been a bigger noob without your help!
 
