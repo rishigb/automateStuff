@@ -31,6 +31,8 @@ Sync the bash profile
 
 `source ~/.bash_profile`
 
-*
 
-~
+####All thanks to [build-podcast](http://build-podcast.com/) and [@sayanee_](https://twitter.com/sayanee_) , would have been a bigger noob without your help!
+
+I am broke and I couldn't contribute but as soon as I can, I will. 
+
