@@ -1,0 +1,19 @@
+#!/bin/bash
+echo enter the project name:
+read name
+mkdir $name
+cd $name
+
+echo enter a filename:
+read filename
+touch $filename.py
+
+echo "#!/usr/bin/env python" >> $filename.py
+echo "" >>$filename.py
+echo "'''
+Python source code - replace this with a description of the code and write the code below this text
+'''" >> $filename.py
+echo"''' import modules here'''" >> $filename.py
+echo "# vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4" >>$filename.py
+
+echo $name and $filename successfully created
