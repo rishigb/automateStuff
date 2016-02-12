@@ -16,7 +16,13 @@ Since it is a shell script, you will have to make it executable/workable. The ea
 `sudo chmod a+x fileName`
 
 Now when you do ./fileName it should work.
-
+#####To Do
+1. Automate setup for all essential tools on Mac. Xcode and point 2.
+2. Automate python,nodejs installation on Mac and Linux systems (Ubuntu).
+3. Raspberry Pi setup.
+4. Intel Edison Setup
+5. Downloads from links etc.
+ 
 
 #####Tips
 
