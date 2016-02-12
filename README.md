@@ -23,6 +23,8 @@ Now when you do ./fileName it should work.
 4. Intel Edison Setup
 5. Downloads from links etc.
  
+#####Building something cool
+ This is called [bro](https://github.com/rishigb/bro). People who know me, know how many times I say "Help me bro!"or "remind me bro" etc. I thought it would be cool if my black screen could do the same. 
 
 #####Tips
 
