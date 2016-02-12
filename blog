@@ -1,0 +1,25 @@
+echo enter the date in yyyy-mm-dd:
+read date
+
+echo enter the name of the post:
+read blog
+
+echo enter the tag here:
+read tag
+
+
+cd /Users/rishigb/Codebase/rishiblog.github.io/_posts
+touch $date-$blog.md
+
+echo "---
+layout: post
+cover:'' #enter the cover image link here
+title: "$blog"
+date: $date
+tags: $tag
+subclass: 'post tag-$tag'
+categories: '$tag'
+navigation: True
+---" >> $date-$blog.md
+
+vim $date-$blog.md

@@ -1,0 +1,16 @@
+echo enter the date in yyyy-mm-dd:
+read date
+
+echo enter the name of the poem:
+read poem
+
+cd /Users/rishigb/Codebase/rishipoetry.github.io/_posts
+touch $date-$poem.md
+echo "---
+layout: post_page
+title: $poem
+---" >> $date-$poem.md
+
+echo Layout Done.
+echo You can now open the file and write poetry.
+vim $date-$poem.md
