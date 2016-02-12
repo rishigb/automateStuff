@@ -1,0 +1,19 @@
+#AutomateStuff
+
+I have been writing code for sometime now, but I haven't been able to really optimize the work, one of the many reasons being that I could not automate basic things,well I never tried, so this is me attempting to do exactly that.
+
+Inspired by Build-podcast's screencast on bash.
+
+#####Running the code
+
+Since it is a shell script, you will have to make it executable/workable. The easiest way to do that is
+
+`sudo chmod a+x fileName`
+
+Now when you do ./fileName it should work.
+
+
+#####Tips
+
+* Installing **tree** really helps. For mac `brew install tree`
+~

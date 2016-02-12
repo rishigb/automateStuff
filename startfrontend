@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo what is your project name?
+
+read project
+
+#create the directory and put stuff inside it.
+mkdir $project
+touch index.html
+
+cd $project
+mkdir css js img
+touch js/script.js css/style.css
+
+
