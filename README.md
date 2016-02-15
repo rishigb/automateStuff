@@ -23,7 +23,7 @@ Now when you do ./fileName it should work.
 4. Intel Edison Setup
 5. Downloads from links etc.
 6. On start of the computer, automatically do a gitpull from everwhere.
- 
+7. Clone and setup all the repositories I am working on in all the systems that I signin with my apple id. 
 #####Building something cool
  This is called [bro](https://github.com/rishigb/bro). People who know me, know how many times I say "Help me bro!"or "remind me bro" etc. I thought it would be cool if my black screen could do the same. 
 
