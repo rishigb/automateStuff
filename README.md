@@ -26,6 +26,7 @@ Now when you do ./fileName it should work.
 7. Clone and setup all the repositories I am working on in all the systems that I signin with my apple id. 
 8. Create a script folder in all the systems I work on and update all of them dynamically as and when I build them.
 9. Create a Whatsapp group, you type "download videoName" it downloads and uploads it in the dropbox account.
+
 #####Building something cool
  This is called [bro](https://github.com/rishigb/bro). People who know me, know how many times I say "Help me bro!"or "remind me bro" etc. I thought it would be cool if my black screen could do the same. 
 
