@@ -2,7 +2,7 @@
 
 I have been writing code for sometime now, but I haven't been able to really optimize the work, one of the many reasons being that I could not automate basic things,well I never tried, so this is me attempting to do exactly that.
 
-Inspired by Build-podcast's screencast on bash.
+Inspired by Build-podcast's screencast on bash and [autmate boring stuff](https://automatetheboringstuff.com/).t
 
 #####What's inside?
 
