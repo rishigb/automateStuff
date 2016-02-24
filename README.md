@@ -19,7 +19,7 @@ Now when you do ./fileName it should work.
 #####To Do
 1. Automate setup for all essential tools on Mac. Xcode and point 2.
 2. Automate python,nodejs installation on Mac and Linux systems (Ubuntu).
-3. Raspberry Pi setup.
+3. Raspberry Pi setup- <s>Post IP address to a doc.</s>
 4. Intel Edison Setup
 5. Downloads from links etc.
 6. On start of the computer, automatically do a gitpull from everwhere.
