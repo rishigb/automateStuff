@@ -26,7 +26,7 @@ Now when you do ./fileName it should work.
 7. Clone and setup all the repositories I am working on in all the systems that I signin with my apple id. 
 8. Create a script folder in all the systems I work on and update all of them dynamically as and when I build them.
 9. Create a Whatsapp group, you type "download videoName" it downloads and uploads it in the dropbox account.
-10.<s> On connection to the internet the Pi or the Edison should post the IP addree on a google doc with the time stamp to find out how to connect to the ssh, this should then come to my email id, using the script I just wrote for the docs or better yet, it should come as a text message to my phone. Start with the Shell script in the begining.</s>
+10. <s> On connection to the internet the Pi or the Edison should post the IP addree on a google doc with the time stamp to find out how to connect to the ssh, this should then come to my email id, using the script I just wrote for the docs or better yet, it should come as a text message to my phone. Start with the Shell script in the begining.</s>
 11. Paste a link on googleDoc and download all the mp3s from there, can write this in bash.
 
 #####Building something cool
