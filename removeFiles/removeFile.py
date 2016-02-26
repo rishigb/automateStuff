@@ -10,7 +10,7 @@ f = open(str(filename))
 def removeThisFile(_fileName):
 	if os.path.exists(_fileName):
 		os.remove(_fileName)
-		print (_fileName," removed")
+		print _fileName," removed"
 	else:
 			print "File not found bro"
 
