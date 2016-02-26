@@ -29,6 +29,7 @@ Now when you do ./fileName it should work.
 10. <s> On connection to the internet the Pi or the Edison should post the IP addree on a google doc with the time stamp to find out how to connect to the ssh, this should then come to my email id, using the script I just wrote for the docs or better yet, it should come as a text message to my phone. Start with the Shell script in the begining.</s>
 11. Paste a link on googleDoc and download all the mp3s from there, can write this in bash.
 12. Look at [this](https://github.com/lukapusic/soundcloud-dl/blob/master/install) link to write better bash script.
+13. Give .txt input with filenames to be removed and python removes it.
 
 
 #####Building something cool
