@@ -31,7 +31,7 @@ Now when you do ./fileName it should work.
 12. Look at [this](https://github.com/lukapusic/soundcloud-dl/blob/master/install) link to write better bash script.
 13. [<s>Give .csv input with filenames to be removed and python removes it.</s>](https://github.com/rishigb/automateStuff/tree/master/removeFiles)
 14. Create google calender events from the commandline.
-
+15. Start with the sensor project.15. Start with the sensor project.15. Start with the sensor project.15. Start with the sensor project.15. Start with the sensor project.15. Start with the sensor project.15. Start with the sensor project.15. Start with the sensor project.15. Start with the sensor project.15. Start with the sensor project.15. Start with the sensor project.15. Start with the sensor project.15. Start with the sensor project.15. Start with the sensor project.15. Start with the sensor project.
 #####Building something cool
  This is called [bro](https://github.com/rishigb/bro). People who know me, know how many times I say "Help me bro!"or "remind me bro" etc. I thought it would be cool if my black screen could do the same. 
 
