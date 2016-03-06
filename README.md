@@ -36,6 +36,8 @@ Now when you do ./fileName it should work.
 17. Automate expense system from the commandline.
 18. SSH into android phone.
 19. Automate mitmx proxy on a pi for the phones to connect to it.
+
+
 #####Building something cool
  This is called [bro](https://github.com/rishigb/bro). People who know me, know how many times I say "Help me bro!"or "remind me bro" etc. I thought it would be cool if my black screen could do the same. 
 
